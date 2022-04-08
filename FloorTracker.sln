@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorTracker", "FloorTracker.csproj", "{B1B0CF7A-CB92-4B4E-A7A8-716EBB249E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorTrackerTester", "..\FloorTrackerTester\FloorTrackerTester.csproj", "{B69BC891-8F3A-4732-A2CD-BB5FFF39DA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B0CF7A-CB92-4B4E-A7A8-716EBB249E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B0CF7A-CB92-4B4E-A7A8-716EBB249E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B0CF7A-CB92-4B4E-A7A8-716EBB249E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B0CF7A-CB92-4B4E-A7A8-716EBB249E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69BC891-8F3A-4732-A2CD-BB5FFF39DA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69BC891-8F3A-4732-A2CD-BB5FFF39DA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69BC891-8F3A-4732-A2CD-BB5FFF39DA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69BC891-8F3A-4732-A2CD-BB5FFF39DA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64847272-986E-40E2-B8A3-1ADC0C5BFF9D}
+	EndGlobalSection
+EndGlobal
